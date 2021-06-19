@@ -3,5 +3,5 @@ var test = function() {
 
     // added in integration
 
-    // added in my feature
+    // edited in my feature
 }
