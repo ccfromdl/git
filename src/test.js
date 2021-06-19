@@ -4,4 +4,6 @@ var test = function() {
     // added in integration
 
     // edited in my feature
+
+    // added in my cool feature
 }
