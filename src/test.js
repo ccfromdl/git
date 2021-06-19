@@ -6,4 +6,6 @@ var test = function() {
     // added in my feature
 
     // added in my cool feature
+
+    // added again in my cool feature
 }
